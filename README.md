@@ -10,3 +10,5 @@
 <link rel="stylesheet" href="https://cyuuz-chan.github.io/miku-cur/mouse.css">
 ```
 
+## 演示
+見[我的博客](https://www.cyuuz.top/)
