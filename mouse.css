@@ -1,9 +1,9 @@
  body {
-   cursor:url(https://cdn.jsdelivr.net/gh/cyuuz-chan/miku-cur@master/normal.cur),
+   cursor:url(http://miku-cur.cyuuz.top/normal.cur),
          default;
  }
  a,
  img {
-   cursor:url(https://cdn.jsdelivr.net/gh/cyuuz-chan/miku-cur@master/select.ani),
+   cursor:url(http://miku-cur.cyuuz.top/select.ani),
          default;
  }
