@@ -7,6 +7,6 @@
 在html头部插入以下代码即可 无需额外配置！
 
 ```html
-<link rel="stylesheet" href="http://miku-cur.cyuuz.top/mouse.css">
+<link rel="stylesheet" href="https://cyuuz-chan.github.io/miku-cur/mouse.css">
 ```
 
